@@ -19,4 +19,6 @@ Resolved
 
 Git RTC integration established.
 
+branching and new WI creation
+
 done
