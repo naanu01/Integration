@@ -1,4 +1,4 @@
-
+dev test commit
 This is a message
 
 
@@ -22,3 +22,6 @@ Git RTC integration established.
 branching and new WI creation
 
 done
+
+17/01/18
+new branch DEV testing for branching strategy
